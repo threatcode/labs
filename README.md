@@ -1,1 +1,1 @@
-# labs
+# IntroLabs
