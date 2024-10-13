@@ -1,7 +1,0 @@
----
-env:
-  open:
-    DISABLE_API: false
-
-persistence:
-  enabled: false

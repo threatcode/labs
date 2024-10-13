@@ -1,7 +1,0 @@
----
-appPort: 8080
-metricsPort: 8081
-db:
-  host: my-store.khulnasoft.pvt
-  database: mydb
-  maxConnections: 20
