@@ -1,0 +1,17 @@
+{
+    "CN": "rest.khulnasoft.pvt",
+    "hosts": [
+        "rest.khulnasoft.pvt"
+    ],
+    "key": {
+        "algo": "rsa",
+        "size": 2048
+    },
+    "names": [
+        {
+            "C": "US",
+            "ST": "CA",
+            "L": "Los Banos"
+        }
+    ]
+}

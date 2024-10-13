@@ -1,0 +1,13 @@
+{
+    servers :443 {
+        protocols h1 h2 h2c
+    }
+}
+
+api.caddy.khulnasoft.pvt {
+	reverse_proxy http://api.khulnasoft.pvt:8080
+    
+    tls /etc/caddy/caddy-khulnasoft-pvt.pem /etc/caddy/caddy-khulnasoft-pvt-key.pem {
+        protocols tls1.3
+    }
+}
