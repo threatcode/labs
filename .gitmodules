@@ -1,0 +1,9 @@
+[submodule "searchexploit"]
+	path = searchexploit
+	url = https://github.com/threatcode/searchexploit
+[submodule "vuln-list"]
+	path = vuln-list
+	url = https://github.com/khulnasoft-lab/vuln-list
+[submodule "malicious-packages"]
+	path = malicious-packages
+	url = https://github.com/khulnasoft-lab/malicious-packages
