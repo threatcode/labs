@@ -3,7 +3,7 @@ name: Update Submodules and Publish Docs
 on:
   push:
     branches:
-      - main
+      - SecurityLabs
 
   repository_dispatch:
     types:
